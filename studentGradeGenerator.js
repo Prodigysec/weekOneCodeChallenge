@@ -1,7 +1,10 @@
+// Function to output correct grade based on student's input
 function gradeGenerator() {
+    // Initiialise a variable to prompt window
     let marks = prompt("Please input your marks!");
 
     switch (true) {
+        // check if marks is in the desired range
         case marks < 0 || marks > 100:
             alert("Please input a valid grade!");
             break;
@@ -26,5 +29,5 @@ function gradeGenerator() {
             break;
     }
 }
-
+// execute the gradeGenerator function
 gradeGenerator();
