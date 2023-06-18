@@ -20,6 +20,12 @@ https://www.aren.co.ke/payroll/taxrates.htm
 
 https://www.kra.go.ke/en/individual/calculate-tax/calculating-tax/paye
 
+
+## Project Setup Instructions
+1. Create a html boilerplate and link the javascript challenge file.
+2. Launch a development server in your local environment and serve the html file.
+3. Head over to the served file and interact with the javascript.
+
 ## Authors
 - [Ian Raburu](https://github.com/Prodigysec)
 
